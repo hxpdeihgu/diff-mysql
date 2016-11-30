@@ -8,8 +8,8 @@
 return [
     'db1'=>[
         'host'=>'127.0.0.2',
-        'user'=>'test_uqiauto',
-        'password'=>'d9483498d85978f88fdc700dc77f1fb4',
+        'user'=>'root',
+        'password'=>'111',
         'database'=>'z3',
     ],
     'db2'=>[
